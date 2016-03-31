@@ -1,6 +1,6 @@
 # ThreadLocal String Utility
 
-[![Build Status](https://travis-ci.org/imamchishty/threadlocal-string-utility.svg?branch=master "threadlocal-string-utility")](https://travis-ci.org/imamchishty/threadlocal-string-utility) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.shedhack.filter/threadlocal-string-utility/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/com.shedhack.filter/threadlocal-string-utility)
+[![Build Status](https://travis-ci.org/imamchishty/threadlocal-string-utility.svg?branch=master "threadlocal-string-utility")](https://travis-ci.org/imamchishty/threadlocal-string-utility) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.shedhack.thread/threadlocal-string-utility/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/com.shedhack.thread/threadlocal-string-utility)
 
 ## Introduction
 
@@ -30,10 +30,10 @@ Project has been built using JDK 1.8, although earlier versions of Java 5+ shoul
 
 ## Maven central
 
-This artifact is available in [Maven Central](https://maven-badges.herokuapp.com/maven-central/com.shedhack.filter/threadlocal-string-utility).
+This artifact is available in [Maven Central](https://maven-badges.herokuapp.com/maven-central/com.shedhack.thread/threadlocal-string-utility).
  
     <dependency>
-        <groupId>com.shedhack.filter</groupId>
+        <groupId>com.shedhack.thread</groupId>
         <artifactId>threadlocal-string-utility</artifactId>
         <version>x.x.x</version>
     </dependency>    
