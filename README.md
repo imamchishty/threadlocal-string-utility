@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This utility library wraps up ThreadLocals (for String payloads) and makes it very easy to use them. The static class [ThreadLocalUtility](http://) contains three static methods:
+This utility library wraps up ThreadLocals (for String payloads) and makes it very easy to use them. The static class [ThreadLocalUtility](https://github.com/imamchishty/threadlocal-string-utility/blob/master/src/main/java/com/shedhack/thread/threadlocal/utility/ThreadLocalUtility.java) contains three static methods:
 
     public static void set(String requestId) {
         local.set(requestId);
