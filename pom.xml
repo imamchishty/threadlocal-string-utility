@@ -6,7 +6,6 @@
     <artifactId>threadlocal-string-utility</artifactId>
     <version>1.0.0</version>
 
-
     <description>ThreadLocal utility that provides static method for (String type) setting, getting and clearing a ThreadLocal..</description>
     <url>https://github.com/imamchishty/threadlocal-string-utility</url>
     <name>threadlocal-string-utility</name>
